@@ -1,5 +1,7 @@
 <div align="center">
 
+<img src="assets/plane-takeoff.svg" width="400" alt="Plane Takeoff Animation"/>
+
 # Hi, I'm wazder!
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/wazder)
