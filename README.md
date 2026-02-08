@@ -18,27 +18,27 @@ I'm a **Computer Engineering** student at Istanbul Commerce University. Since 20
 ## Technologies & Skills
 
 ```text
-AI/ML             ██████████████████████████░░   Machine Learning, Deep Learning
-Image Proc.       ████████████████████████░░░░   Computer Vision, Object Detection
-Signal Proc.      ██████████████████████░░░░░░   DSP, Audio/Video Processing
-Web               ████████████████████░░░░░░░░   .NET, Web Technologies
-Cloud             ████████████████████░░░░░░░░   Cloud Service Integration 
-App Dev           ██████████████████░░░░░░░░░░   Desktop Applications
-Mobile Dev        ████████████████░░░░░░░░░░░░   Cross-platform Development
-Game Dev          ██████████████░░░░░░░░░░░░░░   Godot, C#
+AI/ML             ██████████████████████████░░░░░░   Machine Learning, Deep Learning
+Image Proc.       ████████████████████████░░░░░░░░   Computer Vision, Object Detection
+Signal Proc.      ██████████████████████░░░░░░░░░░   DSP, Audio/Video Processing
+Web               ████████████████████░░░░░░░░░░░░   .NET, Web Technologies
+Cloud             ████████████████████░░░░░░░░░░░░   Cloud Service Integration 
+App Dev           ██████████████████░░░░░░░░░░░░░░   Desktop Applications
+Mobile Dev        ████████████████░░░░░░░░░░░░░░░░   Cross-platform Development
+Game Dev          ██████████████░░░░░░░░░░░░░░░░░░   Godot, C#
 ```
 
 ## Latest Experience
 
 | Position | Company | Period |
 |----------|---------|--------|
-| AI Software Developer | okeep | 2026 - Present |
-| IT Specialist | B4AFC | 2026 - Present |
-| Contributor | Google Tech Academy | 2025 |
-| R&D Intern | Pinsoft | 2025 |
-| Game Developer | Self-employed | 2024 |
-| Field Operative | UNICEF | 2024 |
-| Intern | NOVENTIQ Makronet | 2024 |
+| AI Software Developer | [okeep](https://okeep.co) | 2026 - Present |
+| IT Specialist | [B4AFC](https://b4afc.com) | 2026 - Present |
+| Contributor | Google Tech Academy *(not accessible)* | 2025 |
+| R&D Intern | [Pinsoft](https://www.pinsoft.io) | 2025 |
+| Game Developer | [Self-employed](https://wazder.com) | 2024 |
+| Field Operative | [UNICEF](https://www.unicef.org) | 2024 |
+| Intern | [NOVENTIQ Makronet](https://noventiq.com) | 2024 |
 
 ## Certifications
 
