@@ -44,7 +44,7 @@ Game Dev          ██████████████░░░░░░�
 
 <img src="https://img.shields.io/badge/Google_Cloud-Professional_Cloud_Architect-4285F4?style=flat&logo=google-cloud&logoColor=white" />
 <img src="https://img.shields.io/badge/Istanbul_Commerce_University-Computer Enginnering Bachelor's_Degree_(Still_Student)-1a1a2e?style=flat&logo=bookstack&logoColor=white" />
-<img src="https://img.shields.io/badge/Computer_Enginnering_Education-1a1a2e?style=flat&logo=bookstack&logoColor=white" />
+<img src="https://img.shields.io/badge/FSM_University-Computer_Enginnering_Education-1a1a2e?style=flat&logo=bookstack&logoColor=white" />
 
 ## Contact
 
