@@ -30,15 +30,20 @@ Game Dev          ██████████████░░░░░░�
 
 ## Latest Experience
 
-| Position | Company | Period |
-|----------|---------|--------|
-| AI Software Developer | [okeep](https://okeep.co) | 2026 - Present |
-| IT Specialist | [B4AFC](https://b4afc.com) | 2026 - Present |
-| Contributor | Google Tech Academy *(not accessible)* | 2025 |
-| R&D Intern | [Pinsoft](https://www.pinsoft.io) | 2025 |
-| Game Developer | [Self-employed](https://wazder.com) | 2024 |
-| Field Operative | [UNICEF](https://www.unicef.org) | 2024 |
-| Intern | [NOVENTIQ Makronet](https://noventiq.com) | 2024 |
+| Position | Company | Company Link | Period |
+|----------|---------|--------------|--------|
+| AI Software Developer | okeep | [Link](https://okeep.co) | 2026 - Present |
+| IT Specialist | B4AFC | [Link](https://b4afc.com) | 2026 - Present |
+| Contributor | Google Tech Academy | *not accessible* | 2025 |
+| R&D Intern | Pinsoft | [Link](https://www.pinsoft.io) | 2025 |
+| Game Developer | Self-employed | [Link](https://wazder.com) | 2024 |
+| Field Operative | UNICEF | [Link](https://www.unicef.org) | 2024 |
+| Intern | NOVENTIQ Makronet | [Link](https://noventiq.com) | 2024 |
+
+## Education
+
+<img src="https://img.shields.io/badge/Istanbul_Commerce_University-Bachelor's_Degree_(Still_Student)-1a1a2e?style=flat&logo=bookstack&logoColor=white" />
+<img src="https://img.shields.io/badge/FSM_University-English_Education-1a1a2e?style=flat&logo=bookstack&logoColor=white" />
 
 ## Certifications
 
