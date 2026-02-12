@@ -1,19 +1,39 @@
+```
+                         __         
+ _      ______ _____  __/ /__  _____
+| | /| / / __ `/_  / / __  / _ \/ ___/
+| |/ |/ / /_/ / / /_/ /_/ /  __/ /    
+|__/|__/\__,_/ /___/\__,_/\___/_/     
+```
+
+<p align="center">
+  <a href="https://linkedin.com/in/wazder"><img src="https://img.shields.io/badge/LinkedIn-1a1a2e?style=flat-square&logo=linkedin&logoColor=8B5CF6" /></a>
+  <a href="mailto:tatarhasan09@gmail.com"><img src="https://img.shields.io/badge/Email-1a1a2e?style=flat-square&logo=gmail&logoColor=8B5CF6" /></a>
+  <img src="https://komarev.com/ghpvc/?username=wazder&color=8B5CF6&style=flat-square&label=views" />
+</p>
+
+---
+
+**Computer Engineering** @ Istanbul Commerce University | Building since 2018
+
+From game dev to AI, web to hardware — I ship things that work.
+
+---
+
 <div align="center">
 
-# Hi, I'm wazder!
+### NEST
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/wazder)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:tatarhasan09@gmail.com)
-![Profile Views](https://komarev.com/ghpvc/?username=wazder&color=blueviolet&style=for-the-badge)
+**Neural EEG Sequence Transducer**
+
+[![View Project](https://img.shields.io/badge/View_Project-8B5CF6?style=for-the-badge&logo=github&logoColor=white)](https://github.com/wazder/NEST)
+
+Decoding EEG signals into English and Turkish text.  
+*Where neural interfaces meet natural language processing.*
 
 </div>
 
-## About Me
-
-I'm a **Computer Engineering** student at Istanbul Commerce University. Since 2018, I've been transforming ideas into reality with a passion for developing innovative projects. I have experience in a wide range of fields, from game design to artificial intelligence, web development to hardware integration.
-
-> *"I'm also into hardware and edge technologies, but I prefer to keep those projects private. If you want to ask anything about them, feel free to contact me."*
-
+---
 
 ## Technologies & Skills
 
@@ -28,28 +48,29 @@ Mobile Dev        ████████████████░░░░�
 Game Dev          ██████████████░░░░░░░░░░░░░░░░░░   Godot, C#
 ```
 
-## Latest Experience
+## Experience
 
-| Position | Company | Company Link | Period |
-|----------|---------|--------------|--------|
-| AI Software Developer | okeep | [Link](https://okeep.co) | 2026 - Present |
-| IT Specialist | B4AFC | [Link](https://b4afc.com) | 2026 - Present |
-| Contributor | Google Tech Academy | *not accessible* | 2025 |
-| R&D Intern | Pinsoft | [Link](https://www.pinsoft.io) | 2025 |
-| Game Developer | Self-employed | [Link](https://wazder.com) | 2024 |
-| Field Operative | UNICEF | [Link](https://www.unicef.org) | 2024 |
-| Intern | NOVENTIQ Makronet | [Link](https://noventiq.com) | 2024 |
+```text
+2026 ─────────────────────────────────────────────────────────────────
+     AI Software Developer          okeep
+     IT Specialist                  B4AFC
+
+2025 ─────────────────────────────────────────────────────────────────
+     Contributor                    Google Tech Academy
+     R&D Intern                     Pinsoft
+
+2024 ─────────────────────────────────────────────────────────────────
+     Game Developer                 wazder.com
+     Field Operative                UNICEF
+     Intern                         NOVENTIQ
+```
 
 ## Certifications
 
-<img src="https://img.shields.io/badge/Google_Cloud-Professional_Cloud_Architect-4285F4?style=flat&logo=google-cloud&logoColor=white" />
-<img src="https://img.shields.io/badge/Istanbul_Commerce_University-Computer Enginnering Bachelor's_Degree_(Still_Student)-1a1a2e?style=flat&logo=bookstack&logoColor=white" />
-<img src="https://img.shields.io/badge/FSM_University-Computer_Enginnering_Education-1a1a2e?style=flat&logo=bookstack&logoColor=white" />
+`Google Cloud Professional Cloud Architect` · `B.Sc. Computer Engineering (ongoing)`
 
-## Contact
+---
 
-If you'd like to collaborate with me or discuss my projects:
-
-> *"I prefer mail for professional inquiries, but feel free to connect on LinkedIn as well."*
-- **Email:** tatarhasan09@gmail.com
-- **LinkedIn:** [linkedin.com/in/wazder](https://linkedin.com/in/wazder)
+<p align="center">
+  <sub>Open to collaborations — <a href="mailto:tatarhasan09@gmail.com">tatarhasan09@gmail.com</a></sub>
+</p>
