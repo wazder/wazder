@@ -1,8 +1,8 @@
 ## Who am I?
 
-Full-stack developer and Computer Engineering student at Istanbul Commerce University, building things since 2018. I train neural networks, ship games, set up cloud infrastructure, and prototype hardware. My approach: understand the problem deeply, then build something that actually works.
+Full-stack developer and Computer Engineering student at Istanbul Commerce University, building things since 2018. I work across the stack — from training neural networks to shipping games, from cloud infrastructure to hardware prototypes. My approach: understand the problem deeply, then build something that actually works.
 
-I'm drawn to projects where software meets the physical world. Signal processing, embedded systems, brain-computer interfaces. The messy problems where clean abstractions break down.
+I'm drawn to projects where software meets the physical world. Signal processing, embedded systems, brain-computer interfaces — the messy problems where clean abstractions break down.
 
 <div align="center">
 
