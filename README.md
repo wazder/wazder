@@ -14,6 +14,9 @@ I'm a **Computer Engineering** student at Istanbul Commerce University. Since 20
 
 > *"I'm also into hardware and edge technologies, but I prefer to keep those projects private. If you want to ask anything about them, feel free to contact me."*
 
+### [wazder/NEST](https://github.com/wazder/NEST)
+
+A Neural EEG Sequence Transducer framework for decoding EEG signals into English and Turkish text. This research project explores the intersection of neural interfaces and natural language processing.
 
 ## Technologies & Skills
 
