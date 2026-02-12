@@ -23,6 +23,8 @@ Currently supporting English and Turkish text generation from brain activity.
 
 <sub>Signal Processing · Machine Learning</sub>
 
+<br>
+
 </td>
 </tr>
 </table>
