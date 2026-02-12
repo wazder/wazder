@@ -45,7 +45,7 @@ Currently supporting English and Turkish text generation from brain activity.
 
 <div align="center">
 
-<img src="https://quickchart.io/chart?c=%7Btype%3A%27radar%27%2Cdata%3A%7Blabels%3A%5B%27AI%2FML%27%2C%27Signal%20Processing%27%2C%27Image%20Processing%27%2C%27Web%20Dev%27%2C%27Cloud%27%2C%27App%20Dev%27%2C%27Mobile%27%2C%27Game%20Dev%27%5D%2Cdatasets%3A%5B%7Blabel%3A%27Proficiency%27%2Cdata%3A%5B90%2C70%2C80%2C60%2C30%2C40%2C30%2C50%5D%2CbackgroundColor%3A%27rgba%28142%2C173%2C180%2C0.2%29%27%2CborderColor%3A%27rgba%28142%2C173%2C180%2C1%29%27%2CpointBackgroundColor%3A%27rgba%2875%2C83%2C58%2C1%29%27%7D%5D%7D%2Coptions%3A%7Bscale%3A%7Bticks%3A%7Bdisplay%3Afalse%2Cmin%3A0%2Cmax%3A100%2CstepSize%3A10%7D%2CgridLines%3A%7Bcolor%3A%27rgba%28232%2C228%2C217%2C0.3%29%27%7D%7D%2Clegend%3A%7Bdisplay%3Afalse%7D%7D%7D&w=500&h=350&bkg=transparent" alt="Skills Radar Chart" />
+<img src="https://quickchart.io/chart?c=%7Btype%3A%27radar%27%2Cdata%3A%7Blabels%3A%5B%27AI%2FML%27%2C%27Signal%20Processing%27%2C%27Image%20Processing%27%2C%27Web%20Dev%27%2C%27Cloud%27%2C%27App%20Dev%27%2C%27Mobile%27%2C%27Game%20Dev%27%5D%2Cdatasets%3A%5B%7Blabel%3A%27Proficiency%27%2Cdata%3A%5B90%2C50%2C80%2C60%2C30%2C40%2C30%2C50%5D%2CbackgroundColor%3A%27rgba%28142%2C173%2C180%2C0.2%29%27%2CborderColor%3A%27rgba%28142%2C173%2C180%2C1%29%27%2CpointBackgroundColor%3A%27rgba%2875%2C83%2C58%2C1%29%27%7D%5D%7D%2Coptions%3A%7Bscale%3A%7Bticks%3A%7Bdisplay%3Afalse%2Cmin%3A0%2Cmax%3A100%2CstepSize%3A10%7D%2CgridLines%3A%7Bcolor%3A%27rgba%28232%2C228%2C217%2C0.3%29%27%7D%7D%2Clegend%3A%7Bdisplay%3Afalse%7D%7D%7D&w=500&h=350&bkg=transparent" alt="Skills Radar Chart" />
 
 </div>
 
