@@ -33,7 +33,7 @@ Currently supporting English and Turkish text generation from brain activity.
 
 [![Explore NEST](https://img.shields.io/badge/Explore_NEST-4B533A?style=for-the-badge&logo=github&logoColor=E8E4D9)](https://github.com/wazder/NEST)
 
-<sub>Signal Processing · Deep Learning · BCI · NLP</sub>
+<sub>Signal Processing · Machine Learning</sub>
 
 </td>
 </tr>
