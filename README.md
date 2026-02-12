@@ -8,8 +8,6 @@ I'm drawn to projects where software meets the physical world. Signal processing
 
 ## Featured Project
 
----
-
 <table>
 <tr>
 <td align="center" width="100%">
