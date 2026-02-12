@@ -1,20 +1,8 @@
-<div align="center">
+## Who am I?
 
-```
-                           __         
- _      ______ _____  ____/ /__  _____
-| | /| / / __ `/_  / / __  / _ \/ ___/
-| |/ |/ / /_/ / / /_/ /_/ /  __/ /    
-|__/|__/\__,_/ /___/\__,_/\___/_/     
-```
+Full-stack developer and Computer Engineering student at Istanbul Commerce University, building things since 2018. I work across the stack — from training neural networks to shipping games, from cloud infrastructure to hardware prototypes. My approach: understand the problem deeply, then build something that actually works.
 
-</div>
-
-## About
-
-Computer Engineering student at Istanbul Commerce University, building things since 2018. I work across the stack — from training neural networks to shipping games, from cloud infrastructure to hardware prototypes. My approach is simple: understand the problem deeply, then build something that actually works.
-
-I'm particularly drawn to projects where software meets the physical world. Signal processing, embedded systems, brain-computer interfaces — the messy, interesting problems where clean abstractions break down.
+I'm drawn to projects where software meets the physical world. Signal processing, embedded systems, brain-computer interfaces — the messy problems where clean abstractions break down.
 
 <div align="center">
 
@@ -41,7 +29,7 @@ Currently supporting English and Turkish text generation from brain activity.
 
 </div>
 
-## Skills
+## What can I do?
 
 <div align="center">
 
@@ -49,7 +37,7 @@ Currently supporting English and Turkish text generation from brain activity.
 
 </div>
 
-## Experience
+## What have I done?
 
 <div align="center">
 
