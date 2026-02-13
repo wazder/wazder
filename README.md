@@ -17,7 +17,7 @@ I'm drawn to projects where software meets the physical world. Signal processing
 **Neural EEG Sequence Transducer**
 
 A research framework for decoding raw EEG signals into natural language.
-Currently support English text generation from brain activity.
+It currently doesn't work, but soon there will be English text generation from brain activity.
 
 [![Explore NEST](https://img.shields.io/badge/Explore_NEST-4B533A?style=for-the-badge&logo=github&logoColor=E8E4D9)](https://github.com/wazder/NEST)
 
