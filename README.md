@@ -20,7 +20,8 @@ A research framework for decoding raw EEG signals into natural language.
 It currently doesn't work, but soon there will be English text generation from brain activity.
 
 [![Explore NEST](https://img.shields.io/badge/Explore_NEST-4B533A?style=for-the-badge&logo=github&logoColor=E8E4D9)](https://github.com/wazder/NEST)
-[![Visit Website](https://img.shields.io/badge/Visit_Website-4B533A?style=for-the-badge&logo=googlechrome&logoColor=E8E4D9)](https://nest-eeg.org)
+![Website](https://img.shields.io/badge/Visit_Website-4B533A?style=for-the-badge&logo=google-cloud&logoColor=E8E4D9)
+
 
 <sub>Signal Processing · Machine Learning</sub>
 
