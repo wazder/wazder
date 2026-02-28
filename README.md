@@ -47,7 +47,7 @@ The project is currently under development, but soon it will feature English tex
 
 | Start | End | Role | Company |
 |:------|:----|:-----|:--------|
-| Jan 2025 | Present | AI Software Developer | [okeep](https://okeep.co) |
+| Jan 2025 | Present | AI Software Developer | [yaptir.io](https://yaptir.io) |
 | Jan 2025 | Present | IT Specialist | [B4AFC](https://b4afc.com) |
 | Jun 2025 | Dec 2025 | R&D Intern | [Pinsoft](https://www.pinsoft.io) |
 | Aug 2024 | Dec 2024 | Game Developer | [wazder](https://wazder.com) |
