@@ -1,3 +1,9 @@
+<div align="center">
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=8EADB4&center=true&vCenter=true&width=500&lines=Full-Stack+Developer;AI+Enthusiast;Signal+Processing)](https://wazder.com)
+
+</div>
+
 ## Who am I?
 
 Full-stack developer and Computer Engineering student at Istanbul Commerce University, building things since 2018. I work across the stack — from training neural networks to shipping games, from cloud infrastructure to hardware prototypes. My approach: understand the problem deeply, then build something that actually works.
@@ -6,11 +12,21 @@ I'm drawn to projects where software meets the physical world. Signal processing
 
 <div align="center">
 
-## Featured Project
+
+[![RetroLokal](https://img.shields.io/badge/RetroLokal-4B533A?style=for-the-badge&logo=shopify&logoColor=E8E4D9)](https://www.retrolokal.com)
+[![yaptir.io](https://img.shields.io/badge/yaptir.io-4B533A?style=for-the-badge&logo=openai&logoColor=E8E4D9)](https://yaptir.io)
+[![Email](https://img.shields.io/badge/Email-262624?style=for-the-badge&logo=gmail&logoColor=E8E4D9)](mailto:tatarhasan09@gmail.com)
+
+
+</div>
+
+<div align="center">
+
+## Featured Projects
 
 <table>
 <tr>
-<td align="center" width="100%">
+<td align="center" colspan="2">
 
 ### NEST
 
@@ -22,10 +38,33 @@ The project is currently under development, but soon it will feature English tex
 [![Explore NEST](https://img.shields.io/badge/Explore_NEST-4B533A?style=for-the-badge&logo=github&logoColor=E8E4D9)](https://github.com/wazder/NEST)
 [![Website](https://img.shields.io/badge/Visit_Website-4B533A?style=for-the-badge&logo=google-cloud&logoColor=E8E4D9)](https://nest-eeg.org)
 
-
 <sub>Signal Processing · Machine Learning</sub>
 
 <br>
+
+</td>
+</tr>
+<tr>
+<td align="center" width="50%">
+
+### RetroLokal
+
+A shared marketplace for retro and vintage clothing and goods. Stores list and sell their own products.
+
+[![Website](https://img.shields.io/badge/Visit_Website-4B533A?style=for-the-badge&logo=shopify&logoColor=E8E4D9)](https://www.retrolokal.com)
+
+<sub>Marketplace · E-Commerce</sub>
+
+</td>
+<td align="center" width="50%">
+
+### yaptir.io
+
+AI-powered SaaS platform. Building intelligent solutions as AI Software Developer.
+
+[![Website](https://img.shields.io/badge/Visit_Website-4B533A?style=for-the-badge&logo=openai&logoColor=E8E4D9)](https://yaptir.io)
+
+<sub>AI · SaaS</sub>
 
 </td>
 </tr>
@@ -37,9 +76,17 @@ The project is currently under development, but soon it will feature English tex
 
 <div align="center">
 
-<img src="https://quickchart.io/chart?c=%7Btype%3A%27polarArea%27%2Cdata%3A%7Blabels%3A%5B%27AI%2FML%27%2C%27Image%20Processing%27%2C%27Signal%20Processing%27%2C%27Web%20Dev%27%2C%27Game%20Dev%27%2C%27Mobile%27%5D%2Cdatasets%3A%5B%7Bdata%3A%5B80%2C70%2C60%2C60%2C50%2C40%5D%2CbackgroundColor%3A%5B%27rgba%28142%2C173%2C180%2C0.95%29%27%2C%27rgba%28142%2C173%2C180%2C0.65%29%27%2C%27rgba%28142%2C173%2C180%2C0.35%29%27%2C%27rgba%2875%2C83%2C58%2C0.95%29%27%2C%27rgba%2875%2C83%2C58%2C0.55%29%27%2C%27rgba%2875%2C83%2C58%2C0.25%29%27%5D%2CborderColor%3A%27rgba%2838%2C38%2C36%2C1%29%27%2CborderWidth%3A1%7D%5D%7D%2Coptions%3A%7Bscale%3A%7Bticks%3A%7Bdisplay%3Afalse%2Cmin%3A0%2Cmax%3A100%7D%2CgridLines%3A%7Bcolor%3A%27rgba%28232%2C228%2C217%2C0.3%29%27%7D%7D%2Clegend%3A%7Bposition%3A%27right%27%2Clabels%3A%7BfontSize%3A12%2CfontColor%3A%27%23E8E4D9%27%7D%7D%7D%7D&w=800&h=500&devicePixelRatio=2&bkg=transparent" alt="Skills Polar Chart" width="550" />
+<img src="https://skillicons.dev/icons?i=py,tensorflow,pytorch,js,ts,react,nextjs,unity,cs,gcp,docker,git,linux,figma&theme=dark" alt="Tech Stack" />
 
 </div>
+
+## GitHub Stats
+
+<p align="center">
+<img src="https://github-readme-stats-sigma-five.vercel.app/api?username=wazder&show_icons=true&bg_color=262624&title_color=8EADB4&text_color=E8E4D9&icon_color=4B533A&border_color=4B533A" alt="GitHub Stats" height="180" />
+&nbsp;&nbsp;
+<img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=wazder&layout=compact&bg_color=262624&title_color=8EADB4&text_color=E8E4D9&border_color=4B533A" alt="Top Languages" height="180" />
+</p>
 
 ## What have I done?
 
@@ -48,7 +95,7 @@ The project is currently under development, but soon it will feature English tex
 | Start | End | Role | Company |
 |:------|:----|:-----|:--------|
 | Jan 2025 | Present | AI Software Developer | [yaptir.io](https://yaptir.io) |
-| Jan 2025 | Present | IT Specialist | [B4AFC](https://b4afc.com) |
+| Jan 2025 | Mar 2026 | IT Specialist | [B4AFC](https://b4afc.com) |
 | Jun 2025 | Dec 2025 | R&D Intern | [Pinsoft](https://www.pinsoft.io) |
 | Aug 2024 | Dec 2024 | Game Developer | [wazder](https://wazder.com) |
 | Sep 2024 | Oct 2024 | Field Operative | [UNICEF](https://www.unicef.org) |
@@ -66,5 +113,11 @@ The project is currently under development, but soon it will feature English tex
 </div>
 
 <div align="center">
+
+<br>
+
 <sub>Open to collaborate — <a href="mailto:tatarhasan09@gmail.com">tatarhasan09@gmail.com</a></sub>
+
+![Visitor Count](https://komarev.com/ghpvc/?username=wazder&color=4B533A&style=flat-square&label=Profile+Views)
+
 </div>
