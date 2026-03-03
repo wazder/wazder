@@ -83,9 +83,9 @@ AI-powered SaaS platform. Building intelligent solutions as AI Software Develope
 ## GitHub Stats
 
 <p align="center">
-<img src="https://github-readme-stats-sigma-five.vercel.app/api?username=wazder&show_icons=true&bg_color=262624&title_color=8EADB4&text_color=E8E4D9&icon_color=4B533A&border_color=4B533A&card_width=400" alt="GitHub Stats" height="200" />
-&nbsp;&nbsp;
-<img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=wazder&layout=compact&bg_color=262624&title_color=8EADB4&text_color=E8E4D9&border_color=4B533A&card_width=350" alt="Top Languages" height="200" />
+<img src="https://github-readme-stats-sigma-five.vercel.app/api?username=wazder&show_icons=true&bg_color=262624&title_color=8EADB4&text_color=E8E4D9&icon_color=4B533A&border_color=4B533A" alt="GitHub Stats" height="165" />
+&nbsp;
+<img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=wazder&layout=compact&bg_color=262624&title_color=8EADB4&text_color=E8E4D9&border_color=4B533A&card_width=300" alt="Top Languages" height="165" />
 </p>
 
 ## What have I done?
