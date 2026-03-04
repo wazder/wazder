@@ -94,8 +94,8 @@ AI-powered SaaS platform. Building intelligent solutions as AI Software Develope
 
 | Start | End | Role | Company |
 |:------|:----|:-----|:--------|
-| Jan 2025 | Present | AI Software Developer | [yaptir.io](https://yaptir.io) |
-| Jan 2025 | Mar 2026 | IT Specialist | [B4AFC](https://b4afc.com) |
+| Jan 2026 | Present | AI Software Developer | [yaptir.io](https://yaptir.io) |
+| Jan 2026 | Mar 2026 | IT Specialist | [B4AFC](https://b4afc.com) |
 | Jun 2025 | Dec 2025 | R&D Intern | [Pinsoft](https://www.pinsoft.io) |
 | Aug 2024 | Dec 2024 | Game Developer | [wazder](https://wazder.com) |
 | Sep 2024 | Oct 2024 | Field Operative | [UNICEF](https://www.unicef.org) |
